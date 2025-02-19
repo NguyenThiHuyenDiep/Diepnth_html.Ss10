@@ -1,5 +1,4 @@
 
-
 .main{
     margin: auto;
     padding: 20px;
@@ -41,8 +40,13 @@
 .img{
     width: 370px;
     height: 180px;
-    background-image: url('https://tse3.mm.bing.net/th?id=OIF.b8dhy23m1znNG4Y0r042qw&pid=Api&P=0&h=180');
     background-size: cover;
+    background-image: url('https://tse3.mm.bing.net/th?id=OIF.b8dhy23m1znNG4Y0r042qw&pid=Api&P=0&h=180');
     border-radius: 100px;
     filter: drop-shadow(-8px 16px 0px #ffffff);
+}
+.m1{
+    display:flex;
+    justify-content: flex-end;
+    gap: 20px;
 }
