@@ -23,7 +23,9 @@
     height: 50px;
     border-radius: 50%;
 }
-
+.img{
+    border-radius: 50%;
+}
 .name{
     display: flex;
     margin-top: 20px;
