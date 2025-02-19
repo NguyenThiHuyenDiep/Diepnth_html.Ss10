@@ -43,9 +43,9 @@ h4{
 .container .r1 .p{
     margin: auto;
 }
- .text{
+ p{
     font-size:larger;
-    font-size:37px;
+    font-size:20px;
     background: -webkit-linear-gradient(#eee, #333);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
